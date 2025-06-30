@@ -1,0 +1,9 @@
+En este archivo deberas escribri toda la información de los productos que se encuentran en tu e-commerce.
+Asi como la información reelevanyte de la empresa, como:
+Aque se dedica, su historia, valores, visión, misión, etc.
+
+Puedes escribir en formsto de parrafos eo en listas. 
+
+El chatbot solo respondera basandose en la información que se encuentra en este archivo.
+En caso de que no se encuentre la informacion que el usuario solicite, el chatbot respondera que no tiene la información
+y podría sugerir que el usuario visite la página web y/o se comunique por otro medio.
