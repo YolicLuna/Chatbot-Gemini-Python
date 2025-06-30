@@ -1,6 +1,4 @@
-# Título del proyecto
-
-Python y Gemini: Crea tu chatbot con IA Generativa
+# Python y Gemini: Crea tu chatbot con IA Generativa
 
 Este proyecto del chatbot creado durante el curso **"Gemini y Python: crea tu chatbot con IA generativa"** de Alura Latam.
 
